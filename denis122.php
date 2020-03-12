@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("purple"," ===========================\n");
-echo color("yellow","| Claim Voucher Gojek|\n");
+echo color("yellow","| asu cok|\n");
 echo color("red","| Auto create Gojek X Redeem voucher gofoood |\n");
 echo color("green","| github: Deni Irawan S T |\n");
 echo color("blue","| fanspage :ganteng dan manis|\n");
